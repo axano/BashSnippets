@@ -1,4 +1,5 @@
 #!/bin/bash
+#Clears screen automatically due to the uisage of EOF
 banner(){
 clear
 cat << "EOF"
