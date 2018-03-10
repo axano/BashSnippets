@@ -1,6 +1,5 @@
 #!/bin/bash
-banner()
-{
+banner(){
 clear
 cat << "EOF"
 _   _
