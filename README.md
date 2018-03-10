@@ -1,0 +1,2 @@
+# BashSnippets
+various bash snippets
