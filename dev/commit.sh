@@ -7,7 +7,7 @@
 ###
 ###############################
 standardCommitMessage="Commited with script."
-./getLines.sh
+./getGitLines.sh
 git add .
 if [[ $# -le 0 ]]; then
   git commit -m "$standardCommitMessage"
